@@ -1,1 +1,7 @@
-i need to deploy pods how can i deploy on 2 worker nodes or 1 worker node what happen after deploying regariding replicasets ,services,nodeports,everything explain clearly
+azcopy copy "C:\Users\2492249\OneDrive - Cognizant\Desktop\Python\Counter.py" "https://rupay.blob.core.windows.net/mycontainer?sp=racwdl&st=2026-06-26T10:42:19Z&se=2026-06-26T18:57:19Z&spr=https&sv=2026-02-06&sr=c&sig=%2BQxSKjEqRymZgcCa99sJN9nht1NwJoEUEJ7XeRoDxpg%3D" --recursive=true
+
+
+
+https://rupay.blob.core.windows.net/mycontainer?sp=racwdl&st=2026-06-26T10:42:19Z&se=2026-06-26T18:57:19Z&spr=https&sv=2026-02-06&sr=c&sig=%2BQxSKjEqRymZgcCa99sJN9nht1NwJoEUEJ7XeRoDxpg%3D
+
+https://matchfix-bca3gsckcmf2eqcr.centralindia-01.azurewebsites.net
